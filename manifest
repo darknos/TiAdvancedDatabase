@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0
+apiversion: 2
+description: My module
+author: Sergey Nosenko
+license: Specify your license
+copyright: Sergey Nosenko
+
+
+# these should not be edited
+name: TiAdvancedDatabase
+moduleid: ti.advanceddatabase
+guid: 9fb9d2b4-50eb-4387-a128-52f48a98e569
+platform: iphone
+minsdk: 3.1.1

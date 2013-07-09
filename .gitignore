@@ -1,0 +1,12 @@
+tmp
+bin
+build
+*.zip
+*.a
+*.dll
+*.dylib
+*.exe
+*.o
+*.obj
+*.so
+.DS_Store
